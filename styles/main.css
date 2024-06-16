@@ -1,0 +1,25 @@
+button {
+    height:150px;
+    width:150px;
+    cursor:pointer;
+    color: red;
+    font-weight: 900;
+    margin-right: 1px;
+    
+}
+#soundboard{
+    width: 630px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#topimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#row{
+    margin: 5px;
+}
+
