@@ -7,6 +7,14 @@ button {
     margin-right: 1px;
     
 }
+
+button:hover{
+   background-image: url(../images/head.gif);
+   background-size: 170px;
+   background-position: center;
+   background-repeat: repeat-y;
+   color: white;
+}
 #soundboard{
     width: 630px;
     margin-left: auto;
